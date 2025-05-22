@@ -17,7 +17,7 @@ WA = ''
 NT = ''				
 QLD = ''			
 TAS = ''			
-authenticationGuid = ''		#Your GUID should go here
+authenticationGuid = ''		#334d5f0e-ec80-4cbe-b72b-7ee60fc86e7b
 
 #Constructs the URL by inserting the search parameters specified above
 #GETs the url (using urllib.request.urlopen)
